@@ -3,8 +3,7 @@
 An end-to-end Machine Learning web application that forecasts future sales based on advertising budgets allocated across TV, Radio, and Newspaper channels. Built with **Streamlit** and an optimized **ExtraTreesRegressor** model.
 
 ## 🚀 Live Demo
-*(Optional: Insert your deployed Streamlit Cloud link here)*
-
+https://codealphasalesprediction-sz5fpsk2nmcdqrif9qouup.streamlit.app/
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python
 - **Web Framework:** Streamlit
